@@ -12,7 +12,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+//esta medio mal
     public final String TAG = "Main";
 
     private SeekBar elevation;
